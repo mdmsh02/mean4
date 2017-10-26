@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for mean app for authentication and authorization ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Saif",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
